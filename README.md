@@ -19,4 +19,3 @@ Cross-Device Sync: Access your files from smartphones, tablets, or other compute
 Backup-Friendly: Use your old PC as a backup target for your important files.
 
 Perfect for home users, developers, or small teams who want full control of their storage without relying on public cloud services.
-UPDATE
